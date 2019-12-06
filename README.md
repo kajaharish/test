@@ -1,3 +1,6 @@
+
+|[![Build Status](https://dev.azure.com/kharish/PingTest/_apis/build/status/kajaharish.test?branchName=master)](https://dev.azure.com/kharish/PingTest/_build/latest?definitionId=1&branchName=master)|
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
